@@ -7,8 +7,8 @@
 What we are going to in this program is that we will pass the link of websites which you think is distracting and the the time that you are working on your computer and program will block those website.
 
 ## Program Architecture:
+Every system have host file whether it is Mac, Windows or Linux.
 
-## Every system have host file whether it is Mac, Windows or Linux.
 ## Host file in Mac and Linux :
 ```sh
 /etc/hosts
