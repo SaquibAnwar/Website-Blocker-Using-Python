@@ -25,3 +25,6 @@ C:\Windows\System32\drivers\etc
 
 ## Special note for Windows users 
 Windows user need to create a duplicate of OS’s host file. Now provide the path of the duplicate file in hosts_path mentioned in the script.
+
+## How to run 
+ Run website_blocker.pyw file.
