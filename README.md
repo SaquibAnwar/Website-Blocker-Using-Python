@@ -28,3 +28,10 @@ Windows user need to create a duplicate of OS’s host file. Now provide the pat
 
 ## How to run 
  Run website_blocker.pyw file.
+ 
+ 
+ ### Clone or download this repository
+
+```sh
+git clone https://github.com/SaquibAnwar/Website-Blocker-Using-Python.git
+```
